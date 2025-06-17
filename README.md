@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/hoangwiki-tcinvest-mcp-server-badge.png)](https://mseep.ai/app/hoangwiki-tcinvest-mcp-server)
+
 # TCInvest MCP Server
 
 This project is a Model Context Protocol (MCP) server for TCInvest, designed to help users build LLM-powered applications with real-time and historical stock and bond data from the TCBS APIs. The goal is to enable users to interact with financial data using large language models (LLMs), similar to how DeepSeek operates in the Chinese stock market—using LLMs to replace traditional brokers and provide intelligent, automated investment support.
